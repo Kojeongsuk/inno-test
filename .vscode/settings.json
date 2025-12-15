@@ -1,0 +1,11 @@
+{
+    "liveServer.settings.port": 5502,
+    "editor.minimap.enabled": true,
+    "editor.minimap.scale": 2,
+    "editor.minimap.showSlider": "always",
+    "editor.minimap.side": "right",
+    "editor.minimap.maxColumn": 150,
+    "editor.minimap.renderCharacters": false,
+    "python-envs.defaultEnvManager": "ms-python.python:system",
+    "python-envs.pythonProjects": []
+}
